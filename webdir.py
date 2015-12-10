@@ -3,6 +3,7 @@ import requests
 import sys,json
 
 def _usage():
+    print "upload code files to scanner.baidu.com...\r\n"
     print "[usage:]python webdir.py webdir.tar.gz|webdir.zip...\r\n"
 
 def upload_webdir(webdir):

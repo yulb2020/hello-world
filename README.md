@@ -1,5 +1,10 @@
 # hello-world
 webdir.py -> you can upload code files to scanner.baidu.com and detect webshells  <br />
+<pre><code>
+upload code files to scanner.baidu.com...
+
+[usage:]python webdir.py webdir.tar.gz|webdir.zip...
+</code></pre>
 es_scan.py -> ES scanner:detect ES app  <br />
 
 <pre><code>
